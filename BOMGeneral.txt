@@ -1,0 +1,13 @@
+## For the ribbon wires:
+female connector 0.53€ each https://es.rs-online.com/web/p/conectores-idc/6741101?gb=s
+or 0.84€
+https://es.rs-online.com/web/p/conectores-idc/8323654
+
+wire 30m (2€ meter)
+https://es.rs-online.com/web/p/cables-planos/0360116
+
+male connector 0.2€ each
+https://es.rs-online.com/web/p/conectores-macho-para-pcb/2272183?gb=s
+
+It is preferable to buy the 2x8 wires already assembled. 10cm or 20cm for the connectors between the SignalGenBoard and the AmpBoards and 100cm cables that are cut in half to connect the AmpBoards with the emitters.
+https://es.aliexpress.com/item/1005005417163118.html?spm=a2g0o.order_list.order_list_main.4.39db194dIPiBnT&gatewayAdapt=glo2esp
